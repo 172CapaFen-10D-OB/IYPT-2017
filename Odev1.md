@@ -1,19 +1,14 @@
-9-A | Tarık Buğra İhtiyar | 507 
-9-A | Mehmet Emre Sevinç | 505 
-9-A | Yavuz Selim Mete | 508 
+10-D|Gökalp Oğuz Özün|431
+10-D|Beyzanur Şimşek|423
+10-E|Burak Süvari|495
 
-Buz 
 
-Bu deneyimizde tel sayesinde oluşan basıncın, teli buzun içinden geçirerek hal değişimine etkisini inceleyeceğiz. Amacımız; kısacası, bir teli buzu ikiye bölmeden, zarar vermeden sağ salim içinden geçirmek. Sihir gibi değil mi? 
-Bu deney için bize ince bir tel, orta boylarda bir buz kütlesi, iki adet ağırlık (eşit kütlede), kova ve tutacak veya tutacak görevini görecek bir cisim gerekecek. 
-Öncelikle teli ağırlıklara bağlıyoruz. Ağırlıklar eşit kütlede olacağı için buz kütlesinde dengede durabilecek. Tutacaklara tutturulacak buz kütlesinin ortasına eşit ağırlıklarla tutturulmuş ince teli koyuyoruz ve böylece deney başlamış oluyor. 
-Kütlenin ağırlığından dolayı buzun üzerinde bir basınç oluşmuş olacak. Bu basınç, buzun o bölgedeki erime hızını arttıracak ve böylece tel, buzun içerisine doğru ilerleyecek. Deneyi yaparken buzun 0 derecenin altında olduğunu biliyoruz. Bu sayede buzun eriyen kısmı yine donmuş olacak. Böylelikle tel buzun içinden geçtikten sonra, telin buzu iki parçaya ayırması önlenmiş olacak. 
-Buz eridikçe hacim olarak azalma gösterir. Bu nedenle buzun bir kısmına daha fazla basınç uygularsak o kısım diğer bölgelere oranla daha hızlı eriyecektir. Buz suya oranla daha düşük bir yoğunluğa sahiptir (neredeyse diğer her katı, sıvı formundan daha az alan kaplar). Bu deneyde buz, bir paça tele bağlı bir ağırlığın basıncına tabi tutulur, bu basınç altında buz erir ve tel geçer. Bununla birlikte tel bir kez geçtiğinde, basınç kaldırılır ve su tekrar donar. Böylelikle tel buz bloğundan ayrılmadan geçer. 
-
-Kaynakça 
-
-1_ http://www.yardimcikaynaklar.com/basincin-hal-degisimine-etkisi/ 
-
-2_ https://fizikdersi.gen.tr/basincin-hal-degisimine-etkisi-faz-diyagrami/  
-
-3_ http://www.derszamani.net/basincin-hal-degisimine-etkisi-nedir.html
+Domino 
+ Bu deneyde domino taşlarından,açıölçerden,ipten , ipin bağlı olduğu ağırlıktan ve açı ölçeri sabitleyen düzenekten   yararlanacağız.Amacımız:Domino taşlarının birbirini düşürerek oluşturduğu hızın ,ağırlığın bırakılma açısıyla ve kullanılan domino taşlarının arasındaki mesafeyle olan ilgisini açıklamak. Ağırlığın bırakılma açısının ve domino taşları arasındaki mesafenin bu deneye etkisini araştırabilmek için deneydeki diğer değişkenleri sabit tutuyoruz. Örneğin ağırlığın bırakılma hızı ve domino taşlarının özdeş olması gibi değişkenleri sabit tutuyoruz.
+  Yapılışı:Domino taşlarını eşit aralıklarla rüzgarsız bir ortamda düz bir zemine diziyoruz.İpe bağlı olan ağırlığı domino taşlarını düzgün bir şekilde devirecek biçimde bırakıyoruz.Açıyı da hesaba katıp düşme süresine bağlı olarak domino taşla-
+rının düşme hızını hesaplıyoruz.Aynı deneyi ağırlığı bıraktığımız açıyı değiştirerek tekrar yapıyoruz .Açıyı sırasıyla daha büyük ve daha küçük seçerek açıyla düşme hızının orantısını gözlemleyebiliriz.Bir sonraki adımda ise domino taşları arasındaki mesafeyi değiştirerek domino taşları arasındaki mesafenin değişmesinin domino taşlarının düşme hızına etkisini de gözlemleyebiliriz.Bu şekilde değişkenleri sırayla değiştirmemizin nedeni her değişkenin deneye nasıl bir etkisi olduğunu gözlemlemek istememiz.
+  Sonuçlar:Deneyin değişkenlerinin sabit tutulmadığı göz önünde bulundurulursa domino taşlarının arasındaki mesafenin değişmesi ve ipe bağlı ağırlığın bırakılırken ki açısının değiştirilmesi domino taşlarının hepsinin yere düşme süresi toplamını etkilediğine göre dolayısıyla domino taşlarının da yere düşme hızını etkiler ve deneydeki her değişken değiştirildiğinde farklı bir sonuç elde edilir 
+  Kaynakçalar 
+  1- www.yardimcikaynaklar.com/kinetik-enerjiyi-tanıyalım/
+  2- ocw.metu.edu.tr/file.php/65/ch4/4-1-2.htm
+  3- iypt.org/Problems
